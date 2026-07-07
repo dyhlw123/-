@@ -1,5 +1,7 @@
 # 🎬 四虎视频 - 官方发布页 & 永久导航
 
+[![Telegram Channel](https://img.shields.io/badge/Telegram-官方频道-blue?style=flat-square&logo=telegram)](https://t.me/yytgxiaodui08)
+[![Telegram Group](https://img.shields.io/badge/Telegram-官方交流群-blue?style=flat-square&logo=telegram)](https://t.me/sihuguanfang)
 [![X Follow](https://img.shields.io/badge/X-@4hushipin-black?style=flat-square&logo=x)](https://x.com/4hushipin)
 
 > **四虎视频：全网热门短剧、AV视频、网红内容与实时更新入口。**  
@@ -44,9 +46,9 @@
 除了收藏 GitHub 发布页，也建议关注以下官方渠道。地址变更、线路更新、热门内容提醒都会优先在官方渠道同步。
 
 1. 🐦 **推特 / X：** [@4hushipin](https://x.com/4hushipin)
-2. ✈️ **Telegram 频道：** (暂无，敬请关注后续更新)
-3. 💬 **Telegram 群组：** (暂无，敬请关注后续更新)
-4. 📩 **官方邮箱：** (暂无，敬请关注后续更新)
+2. ✈️ **Telegram 频道：** [四虎视频官方频道](https://t.me/yytgxiaodui08)
+3. 💬 **Telegram 群组：** [四虎官方交流群](https://t.me/sihuguanfang)
+4. 📩 **官方邮箱：** `jianglimeihao@gmail.com`
 
 ---
 
@@ -60,8 +62,9 @@
 
 ## 💼 商务合作与反馈
 
-如需商务合作、内容反馈、地址咨询或其他问题，请通过官方 X 联系：
+如需商务合作、内容反馈、地址咨询或其他问题，请通过以下方式联系：
 
+* **官方邮箱：** `jianglimeihao@gmail.com`
 * **官方 X：** [@4hushipin](https://x.com/4hushipin)
 
 ---
